@@ -35,9 +35,9 @@ Ganti session lu di `'./RadBotZ.json'`
 ## settings 
 Edit Nomor Owner DLL `'./config.js'`
 ```ts 
-OwnerNumber = ['wa.me/6281250521455']
-GithubOwner = ['https://github.com/AhmadBOTV3z']
-GroupOwner = ['https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD']
+OwnerNumber = ['wa.me/6281268477296']
+GithubOwner = ['https://github.com/']
+GroupOwner = ['https://chat.whatsapp.com/']
 Apikey? = Apikey kalian, tidak paham? chat saya di wangsaf!
 
 Thumbnail
@@ -56,8 +56,8 @@ global.kolam = 'https://telegra.ph/file/5aa5dfa3394477e11fb18.jpg'
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/AhmadBOTV3z/AHMADBOT
-cd AHMADBOT
+git clone https://github.com/
+cd 
 npm install
 npm update
 ```
